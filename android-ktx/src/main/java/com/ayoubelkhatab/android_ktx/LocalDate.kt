@@ -10,9 +10,9 @@ import java.util.*
  * formats a date into string using the provided [pattern]
  */
 @RequiresApi(Build.VERSION_CODES.O)
-fun LocalDate.formatToString(pattern: String, locale: Locale = Locale.US): String {
+fun LocalDate.formatToString(pattern: String, locale: Locale = Locale.getDefault()): String {
     val formatter = DateTimeFormatter.ofPattern(pattern, locale)
-    return formatter.format(this)
+    return this.format(formatter)
 }
 
 /**
