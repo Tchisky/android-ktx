@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tchisky-Android-Package.iml" filepath="$PROJECT_DIR$/.idea/modules/Tchisky-Android-Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-ktx/Tchisky-Android-Package.android-ktx.iml" filepath="$PROJECT_DIR$/.idea/modules/android-ktx/Tchisky-Android-Package.android-ktx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tchisky-Android-Package.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tchisky-Android-Package.app.iml" />
+    </modules>
+  </component>
+</project>
