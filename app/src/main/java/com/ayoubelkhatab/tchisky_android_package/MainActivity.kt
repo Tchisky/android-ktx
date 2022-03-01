@@ -19,9 +19,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.ayoubelkhatab.android_ktx.formatToString
 import com.ayoubelkhatab.tchisky_android_package.ui.theme.TchiskyAndroidPackageTheme
 import java.time.LocalDate
-import java.util.*
 
 class MainActivity : ComponentActivity() {
     @RequiresApi(Build.VERSION_CODES.O)
