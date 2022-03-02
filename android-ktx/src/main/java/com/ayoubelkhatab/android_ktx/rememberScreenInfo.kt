@@ -1,4 +1,4 @@
-package com.dreamtouch.composemulti_screen
+package com.ayoubelkhatab.android_ktx
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalConfiguration
